@@ -1,4 +1,4 @@
-# right-side-city
+# Right Side City 2
 1. **The Beginning Arc:** Introductory challenges setting the stage for the adventure.
 2. **The Challenge Arc:** Facing progressively difficult environments and obstacles.
 3. **The Maze Arc:** Navigating through confusing mazes and intricate puzzles.
